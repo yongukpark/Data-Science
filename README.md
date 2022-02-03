@@ -1,6 +1,7 @@
 ### **[캐글](https://www.kaggle.com/)을 통한 머신러닝 공부** 
 D
 * Decision Tree / 의사결정트리 ([2.1](https://github.com/yongukpark/Data-Science/blob/c2e8830f0fd6d1562b08aee0cba61295a8d07d77/2.Intro%20to%20Machine%20Learning/1-1.How%20Models%20Work/How%20Models%20Work.ipynb))  
+* Dtypes(3.5)
 
 M
 * MAE ([2.4](https://github.com/yongukpark/Data-Science/blob/f63b74531e081dc38da7278ac082cbc8c649e824/2.Intro%20to%20Machine%20Learning/4-1.Model%20Validation/Model%20Validation.ipynb))   
